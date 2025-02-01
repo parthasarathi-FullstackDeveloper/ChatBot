@@ -1,0 +1,2 @@
+export const REACT_APP_API_URL="https:api.openai.com/v1/chat/completions"
+ export const REACT_APP_API_KEY="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"
